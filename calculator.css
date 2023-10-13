@@ -1,7 +1,7 @@
 #calc {
   display: grid;
   grid-template-columns: repeat(3, 100px);
-  width: 50%;
+  width: 100%;
 }
 
 input {
